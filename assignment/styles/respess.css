@@ -1,0 +1,76 @@
+/*  ADD your styles below --- WHERE INDICATED ---
+    Keep all the comments I have provided.
+    Where I have commented "keep," DO NOT touch that line!
+    */
+
+body {
+    background: #385E66; /* must change */
+    color: #fff; /* may be #000 or #fff */
+    font-family: Calibri, Arial, sans-serif; /* keep */
+}
+
+article {
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 1px solid; /* can delete or change */
+    background: #27474D;
+}
+/* --- ADD YOUR STYLES BELOW --- */
+aside {
+  background: #385E66;
+  padding: 20px; /* keep */
+  margin: auto; /* keep */
+  border: 1px solid; /* can delete or change */
+}
+
+header {
+  width: 700px; /* keep */
+  padding: 20px; /* keep */
+  margin: auto; /* keep */
+  border: 1px solid; /* can delete or change */
+  background: #3E5962;
+}
+
+footer {
+  width: 700px; /* keep */
+  padding: 20px; /* keep */
+  margin: auto; /* keep */
+  border: 1px solid; /* can delete or change */
+  background:#3E5962;
+}
+
+figure {
+  width: 700px; /* keep */
+  padding: 20px; /* keep */
+  margin: auto; /* keep */
+  border: 1px solid; /* can delete or change */
+  background: #4F7271;
+}
+
+
+
+/* --- add your PSEUDO CLASSES below this line --- */
+a:link {
+  color: #FFFBBE;
+}
+
+a:visited {
+  color: #FAFF92;
+  }
+
+a:focus {
+  color: #4F4A03;
+  }
+
+a:hover {
+  color: #A3A980;
+}
+
+a:active {
+  color: #836838;
+}
+
+footer a:hover {
+  color: #A3A980;
+}
